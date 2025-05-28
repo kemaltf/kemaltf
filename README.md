@@ -115,6 +115,11 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 <h3>📝 Medium Recent Posts</h3>
 
 <!-- MEDIUM-POST:START -->
+- [Everyone Talks About Success. No One Talks About This.](https://medium.com/@kemaltf_/everyone-talks-about-success-no-one-talks-about-this-daf22f23f90b?source=rss-1556ae15b7b------2)
+- [Typescript Access Modifier](https://medium.com/@kemaltf_/typescript-access-modifier-bc7089baa377?source=rss-1556ae15b7b------2)
+- [When to use OOP and When to Use Functional Programming](https://medium.com/@kemaltf_/when-to-use-oop-and-when-to-use-functional-programming-57084b2c06ec?source=rss-1556ae15b7b------2)
+- [OOP vs Functional Programming](https://medium.com/@kemaltf_/oop-vs-functional-programming-18de0974de8a?source=rss-1556ae15b7b------2)
+- [When To Use useContext vs custom hooks](https://medium.com/@kemaltf_/when-to-use-usecontext-vs-custom-hooks-5e0b4ef40446?source=rss-1556ae15b7b------2)
 <!-- MEDIUM-POST:END -->
 
 <h3>Where to find me</h3>
