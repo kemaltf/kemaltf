@@ -1,7 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to meet you.</h1>
 
 <p>Welcome to my page!<br/>
-I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast from <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" width="13"/> <b>Indonesia</b>.
+I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast from <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg" width="13"/> <b>Indonesia</b>. I'm open to work opportunities in Singapore, Malaysia, European Union, and Canada.
+
+<p>I'm currently learning Flutter and Go to expand my development skills.</p>
 
 <h3>Technologies I Use</h3>
 
@@ -116,6 +118,7 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 <h3>📝 Medium Recent Posts</h3>
 
 <!-- MEDIUM-POST:START -->
+
 - [Everyone Talks About Success. No One Talks About This.](https://medium.com/@kemaltf_/everyone-talks-about-success-no-one-talks-about-this-daf22f23f90b?source=rss-1556ae15b7b------2)
 - [Typescript Access Modifier](https://medium.com/@kemaltf_/typescript-access-modifier-bc7089baa377?source=rss-1556ae15b7b------2)
 - [When to use OOP and When to Use Functional Programming](https://medium.com/@kemaltf_/when-to-use-oop-and-when-to-use-functional-programming-57084b2c06ec?source=rss-1556ae15b7b------2)
