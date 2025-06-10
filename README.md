@@ -7,9 +7,14 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 
 <h3>🏆 HackerRank Achievements</h3>
 <p>
-  <img alt="SQL - 5 Stars" src="https://img.shields.io/badge/SQL-5%20Stars-gold?style=flat-square&logo=hackerrank&logoColor=white" />
-  <img alt="Python - 2 Stars" src="https://img.shields.io/badge/Python-2%20Stars-silver?style=flat-square&logo=hackerrank&logoColor=white" />
-  <img alt="Problem Solving - 1 Star" src="https://img.shields.io/badge/Problem%20Solving-1%20Star-bronze?style=flat-square&logo=hackerrank&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/kemaltf" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+<p>
+  <img alt="SQL - 5 Stars" src="https://img.shields.io/badge/SQL-5%20⭐-gold?style=flat-square&logoColor=white" />
+  <img alt="Python - 2 Stars" src="https://img.shields.io/badge/Python-2%20⭐-silver?style=flat-square&logoColor=white" />
+  <img alt="Problem Solving - 1 Star" src="https://img.shields.io/badge/Problem%20Solving-1%20⭐-bronze?style=flat-square&logoColor=white" />
 </p>
 
 <h3>Technologies I Use</h3>
@@ -125,6 +130,7 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 <h3>📝 Medium Recent Posts</h3>
 
 <!-- MEDIUM-POST:START -->
+
 - [Everyone Talks About Success. No One Talks About This.](https://medium.com/@kemaltf_/everyone-talks-about-success-no-one-talks-about-this-daf22f23f90b?source=rss-1556ae15b7b------2)
 - [Typescript Access Modifier](https://medium.com/@kemaltf_/typescript-access-modifier-bc7089baa377?source=rss-1556ae15b7b------2)
 - [When to use OOP and When to Use Functional Programming](https://medium.com/@kemaltf_/when-to-use-oop-and-when-to-use-functional-programming-57084b2c06ec?source=rss-1556ae15b7b------2)
