@@ -8,13 +8,13 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 <h3>🏆 HackerRank Achievements</h3>
 <p>
   <a href="https://www.hackerrank.com/profile/kemaltf" target="_blank">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="20" />
   </a>
 </p>
 <p>
-  <img alt="SQL - 5 Stars" src="https://img.shields.io/badge/SQL-5%20⭐-gold?style=flat-square&logoColor=white" />
-  <img alt="Python - 2 Stars" src="https://img.shields.io/badge/Python-2%20⭐-silver?style=flat-square&logoColor=white" />
-  <img alt="Problem Solving - 1 Star" src="https://img.shields.io/badge/Problem%20Solving-1%20⭐-bronze?style=flat-square&logoColor=white" />
+  <img alt="SQL - 5 Stars" src="https://img.shields.io/badge/SQL-5%20⭐%20Stars-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  <img alt="Python - 2 Stars" src="https://img.shields.io/badge/Python-2%20⭐%20Stars-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  <img alt="Problem Solving - 1 Star" src="https://img.shields.io/badge/Problem%20Solving-1%20⭐%20Star-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
 </p>
 
 <h3>Technologies I Use</h3>
