@@ -5,6 +5,13 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 
 <p>I'm currently learning Flutter and Go to expand my development skills.</p>
 
+<h3>🏆 HackerRank Achievements</h3>
+<p>
+  <img alt="SQL - 5 Stars" src="https://img.shields.io/badge/SQL-5%20Stars-gold?style=flat-square&logo=hackerrank&logoColor=white" />
+  <img alt="Python - 2 Stars" src="https://img.shields.io/badge/Python-2%20Stars-silver?style=flat-square&logo=hackerrank&logoColor=white" />
+  <img alt="Problem Solving - 1 Star" src="https://img.shields.io/badge/Problem%20Solving-1%20Star-bronze?style=flat-square&logo=hackerrank&logoColor=white" />
+</p>
+
 <h3>Technologies I Use</h3>
 
 <!-- Frontend Technologies -->
