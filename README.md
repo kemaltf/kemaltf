@@ -13,8 +13,14 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 </p>
 <p>
   <img alt="SQL - 5 Stars" src="https://img.shields.io/badge/SQL-5%20⭐%20Stars-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
-  <img alt="Python - 2 Stars" src="https://img.shields.io/badge/Python-2%20⭐%20Stars-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  <img alt="Python - 5 Stars" src="https://img.shields.io/badge/Python-5%20⭐%20Stars-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
   <img alt="Problem Solving - 1 Star" src="https://img.shields.io/badge/Problem%20Solving-1%20⭐%20Star-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+</p>
+<p>
+  <b>Certificates:</b><br/>
+  <a href="https://www.hackerrank.com/certificates/476cc364e7e8" target="_blank">
+    <img alt="React Frontend Developer Certificate" src="https://img.shields.io/badge/React_Frontend_Developer-Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 <h3>Technologies I Use</h3>
