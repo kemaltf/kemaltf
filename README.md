@@ -21,6 +21,9 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
   <a href="https://www.hackerrank.com/certificates/476cc364e7e8" target="_blank">
     <img alt="React Frontend Developer Certificate" src="https://img.shields.io/badge/React_Frontend_Developer-Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
   </a>
+  <a href="https://www.hackerrank.com/certificates/2d6b128bdb10" target="_blank">
+    <img alt="Software Engineer Certificate" src="https://img.shields.io/badge/Software_Engineer-Certified-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
 <h3>Technologies I Use</h3>
