@@ -139,11 +139,11 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 <h3>📝 Medium Recent Posts</h3>
 
 <!-- MEDIUM-POST:START -->
+- [How to Store PII Securely: Practical Steps for Developers and Businesses](https://medium.com/@kemaltf_/how-to-store-pii-securely-practical-steps-for-developers-and-businesses-5da20bc8827e?source=rss-1556ae15b7b------2)
+- [Clean Architecture &amp; Hexagonal Architecture in Go: A Practical Guide](https://medium.com/@kemaltf_/clean-architecture-hexagonal-architecture-in-go-a-practical-guide-aca2593b7223?source=rss-1556ae15b7b------2)
+- [Understanding Packages and Folder Scope in Go](https://medium.com/@kemaltf_/understanding-packages-and-folder-scope-in-go-cfe331618493?source=rss-1556ae15b7b------2)
 - [Go Pointers: Address vs Accessible Object &lpar;Explained for TypeScript Developers&rpar;](https://medium.com/@kemaltf_/go-pointers-address-vs-accessible-object-explained-for-typescript-developers-a40d6a352519?source=rss-1556ae15b7b------2)
 - [Understanding Structs and Pointers for TypeScript Developers](https://medium.com/@kemaltf_/understanding-structs-and-pointers-for-typescript-developers-4b3fbf883477?source=rss-1556ae15b7b------2)
-- [Understanding Pointers in Go: Value vs Reference Explained](https://medium.com/@kemaltf_/understanding-pointers-in-go-value-vs-reference-explained-654c71434d1f?source=rss-1556ae15b7b------2)
-- [Everyone Talks About Success. No One Talks About This.](https://medium.com/@kemaltf_/everyone-talks-about-success-no-one-talks-about-this-daf22f23f90b?source=rss-1556ae15b7b------2)
-- [Typescript Access Modifier](https://medium.com/@kemaltf_/typescript-access-modifier-bc7089baa377?source=rss-1556ae15b7b------2)
 <!-- MEDIUM-POST:END -->
 
 <h3>Where to find me</h3>
