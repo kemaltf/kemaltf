@@ -139,11 +139,11 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 <h3>📝 Medium Recent Posts</h3>
 
 <!-- MEDIUM-POST:START -->
+- [Java #2: Basic Rules and Writing Style in Java — Making Sense for Absolute Beginners](https://medium.com/@kemaltf_/java-2-basic-rules-and-writing-style-in-java-making-sense-for-absolute-beginners-a433cb60016b?source=rss-1556ae15b7b------2)
+- [Java #1: From Understanding Java, JVM, JRE &amp; JDK to Installing and Running Your First Program](https://medium.com/@kemaltf_/java-for-absolute-beginners-from-understanding-java-jvm-jre-jdk-to-installing-and-running-your-7980b6a8f2d8?source=rss-1556ae15b7b------2)
 - [How to Store PII Securely: Practical Steps for Developers and Businesses](https://medium.com/@kemaltf_/how-to-store-pii-securely-practical-steps-for-developers-and-businesses-5da20bc8827e?source=rss-1556ae15b7b------2)
 - [Clean Architecture &amp; Hexagonal Architecture in Go: A Practical Guide](https://medium.com/@kemaltf_/clean-architecture-hexagonal-architecture-in-go-a-practical-guide-aca2593b7223?source=rss-1556ae15b7b------2)
 - [Understanding Packages and Folder Scope in Go](https://medium.com/@kemaltf_/understanding-packages-and-folder-scope-in-go-cfe331618493?source=rss-1556ae15b7b------2)
-- [Go Pointers: Address vs Accessible Object &lpar;Explained for TypeScript Developers&rpar;](https://medium.com/@kemaltf_/go-pointers-address-vs-accessible-object-explained-for-typescript-developers-a40d6a352519?source=rss-1556ae15b7b------2)
-- [Understanding Structs and Pointers for TypeScript Developers](https://medium.com/@kemaltf_/understanding-structs-and-pointers-for-typescript-developers-4b3fbf883477?source=rss-1556ae15b7b------2)
 <!-- MEDIUM-POST:END -->
 
 <h3>Where to find me</h3>
