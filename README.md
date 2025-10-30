@@ -139,11 +139,11 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 <h3>📝 Medium Recent Posts</h3>
 
 <!-- MEDIUM-POST:START -->
+- [Learn n8n #3 — Understanding Nodes in n8n](https://medium.com/@kemaltf_/learn-n8n-3-understanding-nodes-in-n8n-3c5f066a8c59?source=rss-1556ae15b7b------2)
+- [Learn n8n #2 — What Is an API — and How It Differs from a Webhook](https://medium.com/@kemaltf_/learn-n8n-2-what-is-an-api-and-how-it-differs-from-a-webhook-09a6d0aa0e59?source=rss-1556ae15b7b------2)
+- [Learn n8n #1 — Why We Need Automation](https://medium.com/@kemaltf_/learn-n8n-1-why-we-need-automation-bd2ab662ee72?source=rss-1556ae15b7b------2)
 - [Java #3 — Mastering Java Data Types: From Integers to Arrays](https://medium.com/@kemaltf_/java-3-mastering-java-data-types-from-integers-to-arrays-502eaa86070b?source=rss-1556ae15b7b------2)
 - [Java #2: Basic Rules and Writing Style in Java — Making Sense for Absolute Beginners](https://medium.com/@kemaltf_/java-2-basic-rules-and-writing-style-in-java-making-sense-for-absolute-beginners-a433cb60016b?source=rss-1556ae15b7b------2)
-- [Java #1: From Understanding Java, JVM, JRE &amp; JDK to Installing and Running Your First Program](https://medium.com/@kemaltf_/java-for-absolute-beginners-from-understanding-java-jvm-jre-jdk-to-installing-and-running-your-7980b6a8f2d8?source=rss-1556ae15b7b------2)
-- [How to Store PII Securely: Practical Steps for Developers and Businesses](https://medium.com/@kemaltf_/how-to-store-pii-securely-practical-steps-for-developers-and-businesses-5da20bc8827e?source=rss-1556ae15b7b------2)
-- [Clean Architecture &amp; Hexagonal Architecture in Go: A Practical Guide](https://medium.com/@kemaltf_/clean-architecture-hexagonal-architecture-in-go-a-practical-guide-aca2593b7223?source=rss-1556ae15b7b------2)
 <!-- MEDIUM-POST:END -->
 
 <h3>Where to find me</h3>
