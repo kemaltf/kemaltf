@@ -139,11 +139,11 @@ I'm <b>Kemal Taufik</b>, a Software Engineer and Machine Learning Enthusiast fro
 <h3>📝 Medium Recent Posts</h3>
 
 <!-- MEDIUM-POST:START -->
+- [I Knew the Formula — But My Brain Refused to Accept It](https://medium.com/@kemaltf_/i-knew-the-formula-but-my-brain-refused-to-accept-it-babf99ebfcac?source=rss-1556ae15b7b------2)
 - [Java #4 — Mastering Java Operators: A Complete Beginner’s Guide to Arithmetic, Logic, and Beyond](https://medium.com/@kemaltf_/java-4-mastering-java-operators-a-complete-beginners-guide-to-arithmetic-logic-and-beyond-da85f2e850a7?source=rss-1556ae15b7b------2)
 - [Learn n8n #5 — The Core Elements of an n8n Workflow](https://medium.com/@kemaltf_/learn-n8n-5-the-core-elements-of-an-n8n-workflow-fa69eeaad2ae?source=rss-1556ae15b7b------2)
 - [Learn n8n #4 — How n8n Handles Data](https://medium.com/@kemaltf_/learn-n8n-4-how-n8n-handles-data-bcc9985b8c12?source=rss-1556ae15b7b------2)
 - [Learn n8n #3 — Understanding Nodes in n8n](https://medium.com/@kemaltf_/learn-n8n-3-understanding-nodes-in-n8n-3c5f066a8c59?source=rss-1556ae15b7b------2)
-- [Learn n8n #2 — What Is an API — and How It Differs from a Webhook](https://medium.com/@kemaltf_/learn-n8n-2-what-is-an-api-and-how-it-differs-from-a-webhook-09a6d0aa0e59?source=rss-1556ae15b7b------2)
 <!-- MEDIUM-POST:END -->
 
 <h3>Where to find me</h3>
